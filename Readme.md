@@ -1,5 +1,5 @@
 
-# Pulumi AWS ECS Fargate and RDS Project
+# Mursion Deployment To AWS Using ECS Fargate and RDS Project
 
 This Pulumi project deploys an ECS Fargate service with an Application Load Balancer and an RDS PostgreSQL instance on AWS.
 
